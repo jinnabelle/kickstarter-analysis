@@ -9,12 +9,12 @@ Purpose
 The purpose of the project is to find out if there is a relationship between how plays performed and their launch dates and fundraising goals. 
 
 
-#**Analysis and Challenges**
+# **Analysis and Challenges**
 
-##Analysis of Outcomes Based on Launch Date
+## Analysis of Outcomes Based on Launch Date
 ![Theater Outcomes vs. Launch](resources/Theater_Outcomes_vs_Launch.png)
 
-##Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
 
 This analysis looks at the the relationship between funding goals and plays' outcomes. I segmented the fundraising goals by $5K increments with $1000 and below as the lowest bound and $50K as the highest bound.
 
