@@ -15,6 +15,7 @@ The purpose of the project is to find out if there is a relationship between how
 ![Theater Outcomes vs. Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ## Analysis of Outcomes Based on Goals
+![Theater Outcomes vs. Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 This analysis looks at the the relationship between funding goals and plays' outcomes. I segmented the fundraising goals by $5K increments with $1000 and below as the lowest bound and $50K as the highest bound.
 
@@ -27,11 +28,13 @@ This analysis looks at the the relationship between funding goals and plays' out
 ## **Results**
 
 **Outcomes Based on Launch Date**
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. May through August is the peak season for theater campaign launches with more campaign launches than any other months in the year. 
 2. There is an increase in failed theater campaign launches in the month of October, which is curious because October is also when there are no campaign launch cancellations.
 
 
 **Outcomes Based on Goals**
+What can you conclude about the Outcomes based on Goals?
 1. Plays that have a goal of less than $15K or a range between $35k to $45K have a higher success rate than plays outsid that range. 
 	-Please note, 92% of the plays had a goal of less than $15K and of those plays, 69% were successful in meeting their goal. 
 
