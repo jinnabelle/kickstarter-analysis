@@ -12,7 +12,7 @@ The purpose of the project is to find out if there is a relationship between how
 #**Analysis and Challenges**
 
 ##Analysis of Outcomes Based on Launch Date
-
+![Theater Outcomes vs. Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ##Analysis of Outcomes Based on Goals
 
