@@ -50,10 +50,10 @@ What can you conclude about the Outcomes based on Goals?
 
 What are some limitations of this dataset?
 
-I think the dataset could have given us more insight if there was a field to show the genre of the campaigns. I would be curious to see audience behavior on genres, i.e. whether they're more inclined to pledge for a specific genre. In addition, I think it would be helpful to see other factors that might have contributed to the campaigns' performance and more specifically the channels of where they were advertised. 
+1. I think the dataset could have given us more insight if there was a field to show the genre of the campaigns. I would be curious to see audience behavior on genres, i.e. whether they're more inclined to pledge for a specific genre. In addition, I think it would be helpful to see other factors that might have contributed to the campaigns' performance and more specifically the channels of where they were advertised. 
 
 What are some other possible tables and/or graphs that we could create?
 
-I think think labeling the graphs would make the graphs easier to understand. This means having to add axis titles to give the audience context as to what they were looking at, and adding data labels on the charts. 
+1. I think think labeling the graphs would make the graphs easier to understand. This means having to add axis titles to give the audience context as to what they were looking at, and adding data labels on the charts. 
 
-For the Outcomes Based on Goal analysis, I think we can create a Box and Whisker chart by outcomes. This will let us know by outcome (successful, failed, cancelled), what the average funding goals was, upper bound and lower bound and give us insight of outliers. 
+2. For the Outcomes Based on Goal analysis, I think we can create a Box and Whisker chart by outcomes. This will let us know by outcome (successful, failed, cancelled), what the average funding goals was, upper bound and lower bound and give us insight of outliers. 
