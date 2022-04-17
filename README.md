@@ -13,7 +13,7 @@ The purpose of the project is to find out if there is a relationship between how
 # **Analysis and Challenges**
 
 ## Analysis of Outcomes Based on Launch Date
-This analysis can be found in this spreadsheet under the Theater Outcomes by Launch Date worksheet [Kickstarter Challenge](docs/CONTRIBUTING.md)
+This analysis can be found in this spreadsheet under the Theater Outcomes by Launch Date worksheet [Kickstarter Challenge](Kickstarter_Challenge.xlsx)
 
 In this analysis, I took a look at the outcomes of campaigns based on their launch date. The analysis looks at specifically Theater campaigns and their outcomes by month across all the years. The graph below shows a monthly trend by outcome (cancelled, failed and successful). 
 
@@ -24,7 +24,7 @@ The most difficult part of this analysis was something tactical, which was getti
 
 
 ## Analysis of Outcomes Based on Goals
-This analysis can be found in this spreadsheet under the Theater Outcomes by Launch Date worksheet [Kickstarter Challenge](docs/CONTRIBUTING.md)
+This analysis can be found in this spreadsheet under the Outcomes Based on Goals worksheet [Kickstarter Challenge](Kickstarter_Challenge.xlsx)
 
 In this analysis I took a look at campaign performance against their funding goal. I grouped the fundraising goals by $5K increments with $1000 and below as the lowest bound and $50K and above as the highest bound. With these funding goals groupings, I made a counter to count the play campaigns that fall into their corresponding bucket. ThenI derived their percent of totals by performance outcomes for each of the funding goal bucket. The graph below shows a line chart of the funding goal groupings by their success, fail and cancel rates. 
 
