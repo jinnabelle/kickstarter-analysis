@@ -6,6 +6,7 @@ Louise's play, Fever, almost met its fundraising goal in a short amount of time.
 and fundraising goals, I used Excel to show this relationship.
 
 Purpose
+
 The purpose of the project is to find out if there is a relationship between how plays performed and their launch dates and fundraising goals. 
 
 
@@ -15,7 +16,7 @@ The purpose of the project is to find out if there is a relationship between how
 ![Theater Outcomes vs. Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ## Analysis of Outcomes Based on Goals
-![Theater Outcomes vs. Launch](resources/Theater_Outcomes_vs_Launch.png)
+![Play Outcomes vs. Goal](resources/Outcomes_vs_Goals.png)
 
 This analysis looks at the the relationship between funding goals and plays' outcomes. I segmented the fundraising goals by $5K increments with $1000 and below as the lowest bound and $50K as the highest bound.
 
@@ -39,7 +40,7 @@ What can you conclude about the Outcomes based on Goals?
 	-Please note, 92% of the plays had a goal of less than $15K and of those plays, 69% were successful in meeting their goal. 
 
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 
 
 - What are some other possible tables and/or graphs that we could create?
